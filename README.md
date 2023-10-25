@@ -48,6 +48,6 @@ $ curl http://localhost:8080/connectfour/1 && echo
 
 ## Requirements
 
-- Ruby 3.2
-- Rails 7.0
+- Python 3.12
+- Django 4.2
 - Sqllite 3.37
