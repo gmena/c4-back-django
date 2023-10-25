@@ -1,4 +1,4 @@
-# Back-end for Connect Four clone game using Rails / Ruby
+# Back-end for Connect Four clone game using Django / Python
 
 Two players can start a game and play it using REST calls. No authentication is performed.
 
